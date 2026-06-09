@@ -4,7 +4,7 @@ let n = 10;
 let str = "20";
 
 const ans = n + str;
-console.log(result);
+console.log(ans);
 
 //명시적 -> 개발자가 직접
 let str1 = "10";
