@@ -28,6 +28,8 @@ function repeatDouble(count) {
 repeat(5);
 repeatDouble(5);
 
+//위에 거를 아래거로 쓸수있다 콜백쓰면말이야
+
 function repeatPerfact(count, callback) {
   for (let idx = 1; idx <= count; idx++) {
     callback(idx);
