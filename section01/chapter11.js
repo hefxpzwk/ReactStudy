@@ -5,6 +5,8 @@ function greeting() {
 
 greeting();
 
+//호이스팅
+// 끌어올리기
 function getArea(width, height) {
   //매개변수는 그냥 이름만
   let area = width + height;
