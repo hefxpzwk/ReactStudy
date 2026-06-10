@@ -14,7 +14,7 @@ function getArea(width, height) {
     // 중첩함수
     console.log("another");
   }
-  another();
+  temp();
   return area;
 }
 
