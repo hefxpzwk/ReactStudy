@@ -1,4 +1,4 @@
-//콜벡 함수
+//콜벡 함수: 인자로 전달되는 함수가 콜벡함수임
 
 function main(value) {
   console.log(value);
